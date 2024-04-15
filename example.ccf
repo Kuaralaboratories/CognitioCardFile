@@ -1,0 +1,8 @@
+# bu bir yorum satırı
+// bu da bir yorum satırı
+/* bu bir blok yorum satırı */
+
+tanim: array [
+    tanimelemani1: boolean = false
+    tanimelemani2: string = "tanimelemani2 stringi"
+]

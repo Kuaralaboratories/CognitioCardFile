@@ -1,0 +1,1 @@
+This is a wrong file for .ccf fileformat program, should not open!
