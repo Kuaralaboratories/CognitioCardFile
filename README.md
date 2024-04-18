@@ -1,8 +1,8 @@
-# CognitioCardFormat (CCF) File Format Specification
+# CognitioCardFile (CCF) File Format Specification
 
 ## Overview
 
-CognitioCardFormat (CCF) is a file format designed with robust security measures to ensure the integrity and safety of data exchange. It is the first type-safe file format, guaranteeing that data types remain consistent and preventing conversions that could compromise data integrity. This document outlines the key features and specifications of the CCF format.
+CognitioCardFile (CCF) is a file format designed with robust security measures to ensure the integrity and safety of data exchange. It is the first type-safe file format, guaranteeing that data types remain consistent and preventing conversions that could compromise data integrity. This document outlines the key features and specifications of the CCF format.
 
 ## Features
 
@@ -23,6 +23,6 @@ Before a CCF file is read, critical information about its contents is shared wit
 
 ## Conclusion
 
-CognitioCardFormat (CCF) sets a new standard for secure data exchange, combining type safety, non-overwritability, protection against SQL injection, metadata fingerprinting, and pre-read verification to ensure the integrity and safety of data transmission. By implementing these robust security measures, CCF enhances trust and confidence in file exchange processes across various applications and industries.
+CognitioCardFile (CCF) sets a new standard for secure data exchange, combining type safety, non-overwritability, protection against SQL injection, metadata fingerprinting, and pre-read verification to ensure the integrity and safety of data transmission. By implementing these robust security measures, CCF enhances trust and confidence in file exchange processes across various applications and industries.
 
 *For more information and inquiries, please contact us at contact@kuaralabs.org or visit our website at [www.kuaralabs.org](https://www.kuaralabs.org).*
