@@ -1,5 +1,7 @@
 # CognitioCardFile (CCF) File Format Specification
 
+![CCF Logo](images/Cognitio-CCF.svg)
+
 ## Overview
 
 CognitioCardFile (CCF) is a file format designed with robust security measures to ensure the integrity and safety of data exchange. It is the first type-safe file format, guaranteeing that data types remain consistent and preventing conversions that could compromise data integrity. This document outlines the key features and specifications of the CCF format.
